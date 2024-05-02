@@ -1,0 +1,76 @@
+.colores{
+    color: rgb(228, 0, 0);
+    text-align: center;
+    border:10px rgb(0, 0, 0) ;
+    border-style:double;
+    border-radius: 25px;
+    border-width: 5px;
+}
+h3{
+    color: brown;
+
+
+}
+div{
+    text-align: center;
+}
+.nuevo{
+    color: rgb(1, 1, 2);
+    text-decoration: blue;
+
+}
+p{
+    text-align: center;
+}
+.lineas{
+    color: black;
+}
+
+img{
+    text-align: center;
+  width: 250px;
+  height:250px;
+}
+.cascada{
+    text-align: center;
+    width: 300px;
+    height: 200px;
+}
+.scrum{
+    text-align: center;
+    width: 300px;
+    height: 200px;
+}
+.kanban{
+    text-align: center;
+    width: 300px;
+    height: 200px;
+}
+.programacion{
+    text-align: center;
+    width: 300px;
+    height: 200px;
+}
+
+
+.FDD{
+    text-align: center;
+    width: 300px;
+    height: 200px;
+}
+.lean{
+    text-align: center;
+    width: 300px;
+    height: 200px;
+}
+h2{
+    text-align: center;
+    color: brown;
+}
+li{
+    text-align: center;
+}
+
+body{
+    background-color: rgb(153, 237, 243);
+}
